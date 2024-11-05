@@ -1,0 +1,243 @@
+/* 
+  Localizable.strings
+  My Coctail
+
+  Created by Aleksey Ryabchenko on 12.11.2023.
+  
+*/
+
+"titleContentView" = "Коктейли";
+"recipteCoctailDetailView" = "Рецепт коктейля";
+"descriptionTextSettingView" = "В этом приложении собраны одни из самых лучших и популярных рецептов котейлей.";
+"settingTitleSettingView" = "Настройки";
+"startButtonText" = "Продолжить";
+"ingridientsText" = "Ингридиенты";
+
+// ___________________________
+
+"name1" = "Голубая лагуна";
+"headline1" = "Тонизирующий сладкий коктейль с легкой ноткой цитруса";
+"ingridients1.1" = "Водка";
+"ingridients1.2" = "Ликер блю кюрасао";
+"ingridients1.3" = "Спрайт";
+"ingridients1.4" = "Лимон";
+"ingridients1.5" = "Лед";
+"numberOfIngridients1.1" = "50 мл";
+"numberOfIngridients1.2" = "20 мл";
+"numberOfIngridients1.3" = "150 мл";
+"numberOfIngridients1.4" = "30 г";
+"numberOfIngridients1.5" = "150 г";
+"recipe1" = "В высокий бокал 300-400 мл положить лед, налить ликер и водку, далее наполнить бокал спрайтом и украсить лимоном.";
+    
+"name2" = "Секс на пляже";
+"headline2" = "Экзотический сладкий коктейль с легкой ноткой кислинки";
+"ingridients2.1" = "Водка";
+"ingridients2.2" = "Персиковый ликер";
+"ingridients2.3" = "Гранатовый сок";
+"ingridients2.4" = "Ананасовый сок";
+"ingridients2.5" = "Ананас";
+"ingridients2.6" = "Коктейльная вишня";
+"ingridients2.7" = "Лед";
+"numberOfIngridients2.1" = "50 мл";
+"numberOfIngridients2.2" = "35 мл";
+"numberOfIngridients2.3" = "40 мл";
+"numberOfIngridients2.4" = "40 мл";
+"numberOfIngridients2.5" = "15 г";
+"numberOfIngridients2.6" = "5 г";
+"numberOfIngridients2.7" = "200 г";
+"recipe2" = "Наливаем в шейкер клюквенный и ананасовый сок, далее добавляем ликер, водку, лед и взбалтываем все, потом переливаем в высокий бокал 300-400 мл и в конце украшаем ананасом и вишней";
+
+"name3" = "Морской закат";
+"headline3" = "Освежающий коктейль с терпким вкусом и легкой горчинкой";
+"ingridients3.1" = "Водка";
+"ingridients3.2" = "Клюквенный сок";
+"ingridients3.3" = "Грейпфруктовый сок";
+"ingridients3.4" = "Апельсин";
+"ingridients3.5" = "Клюква";
+"ingridients3.6" = "Лед";
+"numberOfIngridients3.1" = "50 мл";
+"numberOfIngridients3.2" = "100 мл";
+"numberOfIngridients3.3" = "50 мл";
+"numberOfIngridients3.4" = "30 г";
+"numberOfIngridients3.5" = "5 г";
+"numberOfIngridients3.6" = "180 г";
+"recipe3" = "В высокий бокал 300-400 мл положить лед, налить грейпфруктовый сок и водку, далее наполнить бокал клюквенным соком, аккуратно размешать, украсить клюквой и апельсином.";
+
+"name4" = "Куба Либре";
+"headline4" = "Удивительный сладкий коктейль с лёгкой карамельной ноткой";
+"ingridients4.1" = "Ром";
+"ingridients4.2" = "Лаймовый сок";
+"ingridients4.3" = "Кола";
+"ingridients4.4" = "Лайм";
+"ingridients4.5" = "Лед";
+"numberOfIngridients4.1" = "50 мл";
+"numberOfIngridients4.2" = "10 мл";
+"numberOfIngridients4.3" = "150 мл";
+"numberOfIngridients4.4" = "20 г";
+"numberOfIngridients4.5" = "180 г";
+"recipe4" = "В высокий бокал 300-400 мл положить лед, налить ром и лаймовый сок, далее наполнить бокал колой и украсить лаймом.";
+
+"name5" = "Стингер";
+"headline5" = "Освежающий коктейль с незабываемым мятным вкусом";
+"ingridients5.1" = "Коньяк";
+"ingridients5.2" = "Мятный ликер";
+"ingridients5.3" = "Мята";
+"ingridients5.4" = "Лед";
+"numberOfIngridients5.1" = "50 мл";
+"numberOfIngridients5.2" = "25 мл";
+"numberOfIngridients5.3" = "2 г";
+"numberOfIngridients5.4" = "200 г";
+"recipe5" = "Наливаем в шейкер ликер и коньяк, добавляем лед и взбалтываем все, потом переливаем в бокал 200-300 мл и в конце украшаем мятой.";
+
+"name6" = "Лонг Айленд";
+"headline6" = "Крепкий кисло-сладкий котейль с загадочным вкусом";
+"ingridients6.1" = "Водка";
+"ingridients6.2" = "Ром";
+"ingridients6.3" = "Текила";
+"ingridients6.4" = "Джин";
+"ingridients6.5" = "Цитрусовый Ликер";
+"ingridients6.6" = "Сахарный сироп";
+"ingridients6.7" = "Лимонный сок";
+"ingridients6.8" = "Кола";
+"ingridients6.9" = "Лимон";
+"ingridients6.10" = "Лед";
+"numberOfIngridients6.1" = "30 мл";
+"numberOfIngridients6.2" = "30 мл";
+"numberOfIngridients6.3" = "30 мл";
+"numberOfIngridients6.4" = "30 мл";
+"numberOfIngridients6.5" = "30 мл";
+"numberOfIngridients6.6" = "30 мл";
+"numberOfIngridients6.7" = "30 мл";
+"numberOfIngridients6.8" = "100 мл";
+"numberOfIngridients6.9" = "40 г";
+"numberOfIngridients6.10" = "300 г";
+"recipe6" = "Высокий бокал 400+ мл заполняем льдом, наливаем сок, сироп, ликер, далее добавляем водку, джин, текилу, потом наполнить бокал колой и аккуратно все размешать, украсить лимоном.";
+
+"name7" = "Мохито";
+"headline7" = "Коктейль с невероятно освежающим кисло-сладким вкусом";
+"ingridients7.1" = "Ром";
+"ingridients7.2" = "Сахарный сироп";
+"ingridients7.3" = "Содовая";
+"ingridients7.4" = "Лайм";
+"ingridients7.5" = "Мята";
+"ingridients7.6" = "Лед";
+"numberOfIngridients7.1" = "50 мл";
+"numberOfIngridients7.2" = "15 мл";
+"numberOfIngridients7.3" = "100 мл";
+"numberOfIngridients7.4" = "80 г";
+"numberOfIngridients7.5" = "3 г";
+"numberOfIngridients7.6" = "200 г";
+"recipe7" = "Поместить лайм в высокий бокал 300-400 мл, немного подавить его там и добавить мяту, наполнить льдом бокал, добавить сироп, ром, потом наполнить бокал содовой и аккуратно все размешать, украсить мятой и лаймом.";
+
+"name8" = "Джин тоник";
+"headline8" = "Легкий коктейль с загадочным вкусом и ноткой можжевельника";
+"ingridients8.1" = "Джин";
+"ingridients8.2" = "Тоник";
+"ingridients8.3" = "Лайм";
+"ingridients8.4" = "Лед";
+"numberOfIngridients8.1" = "50 мл";
+"numberOfIngridients8.2" = "150 мл";
+"numberOfIngridients8.3" = "20 г";
+"numberOfIngridients8.4" = "180 г";
+"recipe8" = "В высокий бокал 300-400 мл положить лед, налить джин, далее наполнить бокал тоником и украсить лаймом";
+
+"name9" = "Текила Санрайз";
+"headline9" = "Удивительный коктейль с ярко выраженным цитрусовым вкусом";
+"ingridients9.1" = "Текила";
+"ingridients9.2" = "Гренадин";
+"ingridients9.3" = "Апельсиновый сок";
+"ingridients9.4" = "Апельсин";
+"ingridients9.5" = "Лед";
+"numberOfIngridients9.1" = "50 мл";
+"numberOfIngridients9.2" = "10 мл";
+"numberOfIngridients9.3" = "150 мл";
+"numberOfIngridients9.4" = "30 г";
+"numberOfIngridients9.5" = "180 г";
+"recipe9" = "В высокий бокал 300-400 мл положить лед, налить гренадин и текилу, далее наполнить бокал апельсиновым соком и украсить апельсином.";
+
+"name10" = "Отвертка";
+"headline10" = "Тонизирующий цитрусовый коктейль с легкой горчинкой";
+"ingridients10.1" = "Водка";
+"ingridients10.2" = "Апельсиновый сок";
+"ingridients10.3" = "Апельсин";
+"ingridients10.4" = "Лед";
+"numberOfIngridients10.1" = "50 мл";
+"numberOfIngridients10.2" = "150 мл";
+"numberOfIngridients10.3" = "30 г";
+"numberOfIngridients10.4" = "180 г";
+"recipe10" = "Высокий бокал 400+ мл заполнить льдом, добавить водки и далее наполнить бокал апельсиновым соком и украсить апельсином.";
+
+"name11" = "Ориджинал";
+"headline11" = "Бодрящий коктейль с доминирующим вкусом колы";
+"ingridients11.1" = "Коньяк";
+"ingridients11.2" = "Кола";
+"ingridients11.3" = "Лед";
+"numberOfIngridients11.1" = "60 мл";
+"numberOfIngridients11.2" = "180 мл";
+"numberOfIngridients11.3" = "150 г";
+"recipe11" = "В высокий бокал 300-400 мл положить лед, добавить коньяк, далее наполнить бокал колой, аккуратно размешать.";
+
+"name12" = "Ураган";
+"headline12" = "Крепкий коктейль с насыщенным сладким фруктовым вкусом и нотками цитруса";
+"ingridients12.1" = "Ром";
+"ingridients12.2" = "Сироп";
+"ingridients12.3" = "Гренадин";
+"ingridients12.4" = "Анансовый сок";
+"ingridients12.5" = "Апельсиновый сок";
+"ingridients12.6" = "Лаймовый сок";
+"ingridients12.7" = "Лимон";
+"ingridients12.8" = "Лед";
+"numberOfIngridients12.1" = "60 мл";
+"numberOfIngridients12.2" = "15 мл";
+"numberOfIngridients12.3" = "5 мл";
+"numberOfIngridients12.4" = "60 мл";
+"numberOfIngridients12.5" = "60 мл";
+"numberOfIngridients12.6" = "30 мл";
+"numberOfIngridients12.7" = "20 г";
+"numberOfIngridients12.8" = "300 г";
+"recipe12" = "Наливаем в шейкер лаймовый, апельсиновый и анансовый сок, далее добавляем сироп, гренадин, ром и лед, взбиваем все, потом переливаем в высокий бокал 400+ мл и в конце украшаем лимоном.";
+
+"name13" = "Санта Либре";
+"headline13" = "Освежающий сладкий коктейль с насыщенным цитрусовым вкусом";
+"ingridients13.1" = "Ром";
+"ingridients13.2" = "Лаймовый сок";
+"ingridients13.3" = "Спрайт";
+"ingridients13.4" = "Лайм";
+"ingridients13.5" = "Лед";
+"numberOfIngridients13.1" = "50 мл";
+"numberOfIngridients13.2" = "10 мл";
+"numberOfIngridients13.3" = "150 мл";
+"numberOfIngridients13.4" = "20 г";
+"numberOfIngridients13.5" = "180 г";
+"recipe13" = "В высокий бокал 300-400 мл положить лед, налить лаймовый сок и ром, далее наполнить бокал спрайтом, аккуратно размешать и украсить лаймом.";
+
+"name14" = "Мятный бриз";
+"headline14" = "Освежающий коктейль с приятным мягким и необычным вкусом";
+"ingridients14.1" = "Джин";
+"ingridients14.2" = "Сахарный сироп";
+"ingridients14.3" = "Лимонный сок";
+"ingridients14.4" = "Содовая";
+"ingridients14.5" = "Мята";
+"ingridients14.6" = "Лед";
+"numberOfIngridients14.1" = "50 мл";
+"numberOfIngridients14.2" = "20 мл";
+"numberOfIngridients14.3" = "15 мл";
+"numberOfIngridients14.4" = "100 мл";
+"numberOfIngridients14.5" = "2 г";
+"numberOfIngridients14.6" = "200 г";
+"recipe14" = "В высокий бокал 300-400 мл положить лед и мяту, налить лимонный сок, сахарный сироп и джин, далее наполнить бокал содовой, аккуратно размешать и украсить мятой.";
+
+"name15" = "Бульвардье";
+"headline15" = "Крепкий коктейль с гармонией горьковатого и сладкого вкуса";
+"ingridients15.1" = "Виски";
+"ingridients15.2" = "Красный вермут";
+"ingridients15.3" = "Красный биттер";
+"ingridients15.4" = "Апельсиновая цедра";
+"ingridients15.5" = "Лед";
+"numberOfIngridients15.1" = "45 мл";
+"numberOfIngridients15.2" = "30 мл";
+"numberOfIngridients15.3" = "30 мл";
+"numberOfIngridients15.4" = "10 г";
+"numberOfIngridients15.5" = "120 г";
+"recipe15" = "В высокий бокал 200-300 мл положить лед, налить вермут, биттер и виски, аккуратно размешать и украсить цедрой.";
+

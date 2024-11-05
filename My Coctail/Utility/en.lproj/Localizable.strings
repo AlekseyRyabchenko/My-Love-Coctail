@@ -1,0 +1,242 @@
+/* 
+  Localizable.strings
+  My Coctail
+
+  Created by Aleksey Ryabchenko on 12.11.2023.
+  
+*/
+"titleContentView" = "My Coctails";
+"recipteCoctailDetailView" = "Cocktail recipe";
+"descriptionTextSettingView" = "This application contains some of the best and most popular cocktail recipes.";
+"settingTitleSettingView" = "Setting";
+"startButtonText" = "Continue";
+"ingridientsText" = "Ingridients";
+
+//___________________________
+
+"name1" = "Blue Lagoon";
+"headline1" = "An invigorating sweet cocktail with a slight hint of citrus";
+"ingridients1.1" = "Vodka";
+"ingridients1.2" = "Blue curacao liqueur";
+"ingridients1.3" = "Sprite";
+"ingridients1.4" = "Lemon";
+"ingridients1.5" = "Ice";
+"numberOfIngridients1.1" = "50 ml";
+"numberOfIngridients1.2" = "20 ml";
+"numberOfIngridients1.3" = "150 ml";
+"numberOfIngridients1.4" = "30 g";
+"numberOfIngridients1.5" = "150 g";
+"recipe1" = "Place ice in a tall 300-400 ml glass, pour in liqueur and vodka, then fill the glass with Sprite and garnish with lemon.";
+    
+"name2" = "Sex on the beach";
+"headline2" = "An exotic sweet cocktail with a slight hint of sourness";
+"ingridients2.1" = "Vodka";
+"ingridients2.2" = "Peach liqueur";
+"ingridients2.3" = "Pomegranate juice";
+"ingridients2.4" = "Pineapple juice";
+"ingridients2.5" = "A pineapple";
+"ingridients2.6" = "Cocktail cherry";
+"ingridients2.7" = "Ice";
+"numberOfIngridients2.1" = "50 ml";
+"numberOfIngridients2.2" = "35 ml";
+"numberOfIngridients2.3" = "40 ml";
+"numberOfIngridients2.4" = "40 ml";
+"numberOfIngridients2.5" = "15 g";
+"numberOfIngridients2.6" = "5 g";
+"numberOfIngridients2.7" = "200 g";
+"recipe2" = "Pour cranberry and pineapple juice into a shaker, then add liqueur, vodka, ice and shake everything, then pour 300-400 ml into a tall glass and at the end decorate with pineapple and cherry.";
+
+"name3" = "Sea sunset";
+"headline3" = "A refreshing cocktail with a tart taste and slight bitterness";
+"ingridients3.1" = "Vodka";
+"ingridients3.2" = "Cranberry juice";
+"ingridients3.3" = "Grapefruit juice";
+"ingridients3.4" = "Orange";
+"ingridients3.5" = "Cranberry";
+"ingridients3.6" = "Ice";
+"numberOfIngridients3.1" = "50 ml";
+"numberOfIngridients3.2" = "100 ml";
+"numberOfIngridients3.3" = "50 ml";
+"numberOfIngridients3.4" = "30 g";
+"numberOfIngridients3.5" = "5 g";
+"numberOfIngridients3.6" = "180 g";
+"recipe3" = "Place ice in a tall 300-400 ml glass, pour grapefruit juice and vodka, then fill the glass with cranberry juice, stir gently, garnish with cranberries and orange.";
+
+"name4" = "Cuba Libre";
+"headline4" = "Amazing sweet cocktail with a light caramel note";
+"ingridients4.1" = "Rum";
+"ingridients4.2" = "Lime juice";
+"ingridients4.3" = "Cola";
+"ingridients4.4" = "Lime";
+"ingridients4.5" = "Ice";
+"numberOfIngridients4.1" = "50 ml";
+"numberOfIngridients4.2" = "10 ml";
+"numberOfIngridients4.3" = "150 ml";
+"numberOfIngridients4.4" = "20 g";
+"numberOfIngridients4.5" = "180 g";
+"recipe4" = "Place ice in a tall 300-400 ml glass, pour in rum and lime juice, then fill the glass with cola and garnish with lime.";
+
+"name5" = "Stinger";
+"headline5" = "A refreshing cocktail with an unforgettable mint taste";
+"ingridients5.1" = "Cognac";
+"ingridients5.2" = "Mint liqueur";
+"ingridients5.3" = "Mint";
+"ingridients5.4" = "Ice";
+"numberOfIngridients5.1" = "50 ml";
+"numberOfIngridients5.2" = "25 ml";
+"numberOfIngridients5.3" = "2 g";
+"numberOfIngridients5.4" = "200 g";
+"recipe5" = "Pour liqueur and cognac into a shaker, add ice and shake everything, then pour 200-300 ml into a glass and at the end garnish with mint.";
+
+"name6" = "Long Island";
+"headline6" = "Strong sweet and sour cocktail with a mysterious taste";
+"ingridients6.1" = "Vodka";
+"ingridients6.2" = "Rum";
+"ingridients6.3" = "Tequila";
+"ingridients6.4" = "Gin";
+"ingridients6.5" = "Citrus Liqueur";
+"ingridients6.6" = "Sugar syrup";
+"ingridients6.7" = "Lemon juice";
+"ingridients6.8" = "Cola";
+"ingridients6.9" = "Lemon";
+"ingridients6.10" = "Ice";
+"numberOfIngridients6.1" = "30 ml";
+"numberOfIngridients6.2" = "30 ml";
+"numberOfIngridients6.3" = "30 ml";
+"numberOfIngridients6.4" = "30 ml";
+"numberOfIngridients6.5" = "30 ml";
+"numberOfIngridients6.6" = "30 ml";
+"numberOfIngridients6.7" = "30 ml";
+"numberOfIngridients6.8" = "100 ml";
+"numberOfIngridients6.9" = "40 g";
+"numberOfIngridients6.10" = "300 g";
+"recipe6" = "Fill a tall glass of 400+ ml with ice, pour in juice, syrup, liqueur, then add vodka, gin, tequila, then fill the glass with cola and carefully stir everything, garnish with lemon.";
+
+"name7" = "Mojito";
+"headline7" = "A cocktail with an incredibly refreshing sweet and sour taste";
+"ingridients7.1" = "Rum";
+"ingridients7.2" = "Sugar syrup";
+"ingridients7.3" = "Soda";
+"ingridients7.4" = "Lime";
+"ingridients7.5" = "Mint";
+"ingridients7.6" = "Ice";
+"numberOfIngridients7.1" = "50 ml";
+"numberOfIngridients7.2" = "15 ml";
+"numberOfIngridients7.3" = "100 ml";
+"numberOfIngridients7.4" = "80 g";
+"numberOfIngridients7.5" = "3 g";
+"numberOfIngridients7.6" = "200 g";
+"recipe7" = "Place the lime in a tall glass of 300-400 ml, crush it a little and add mint, fill the glass with ice, add syrup, rum, then fill the glass with soda and stir everything carefully, garnish with mint and lime.";
+
+"name8" = "Gin and tonic";
+"headline8" = "A light cocktail with a mysterious taste and a hint of juniper";
+"ingridients8.1" = "Gin";
+"ingridients8.2" = "Tonic";
+"ingridients8.3" = "Lime";
+"ingridients8.4" = "Ice";
+"numberOfIngridients8.1" = "50 ml";
+"numberOfIngridients8.2" = "150 ml";
+"numberOfIngridients8.3" = "20 g";
+"numberOfIngridients8.4" = "180 g";
+"recipe8" = "Place ice in a tall 300-400 ml glass, pour in gin, then fill the glass with tonic and garnish with lime.";
+
+"name9" = "Tequila Sunrise";
+"headline9" = "An amazing cocktail with a pronounced citrus taste";
+"ingridients9.1" = "Tequila";
+"ingridients9.2" = "Grenadine";
+"ingridients9.3" = "Orange juice";
+"ingridients9.4" = "Orange";
+"ingridients9.5" = "Ice";
+"numberOfIngridients9.1" = "50 ml";
+"numberOfIngridients9.2" = "10 ml";
+"numberOfIngridients9.3" = "150 ml";
+"numberOfIngridients9.4" = "30 g";
+"numberOfIngridients9.5" = "180 g";
+"recipe9" = "Place ice in a tall 300-400 ml glass, pour in grenadine and tequila, then fill the glass with orange juice and garnish with orange.";
+
+"name10" = "Screwdriver";
+"headline10" = "A tonic citrus cocktail with a slight bitterness";
+"ingridients10.1" = "Vodka";
+"ingridients10.2" = "Orange juice";
+"ingridients10.3" = "Orange";
+"ingridients10.4" = "Ice";
+"numberOfIngridients10.1" = "50 ml";
+"numberOfIngridients10.2" = "150 ml";
+"numberOfIngridients10.3" = "30 g";
+"numberOfIngridients10.4" = "180 g";
+"recipe10" = "Fill a tall glass 400+ ml with ice, add vodka and then fill the glass with orange juice and garnish with orange.";
+
+"name11" = "Original";
+"headline11" = "An invigorating cocktail with a dominant cola flavor";
+"ingridients11.1" = "Cognac";
+"ingridients11.2" = "Cola";
+"ingridients11.3" = "Ice";
+"numberOfIngridients11.1" = "60 ml";
+"numberOfIngridients11.2" = "180 ml";
+"numberOfIngridients11.3" = "150 g";
+"recipe11" = "Place ice in a tall 300-400 ml glass, add cognac, then fill the glass with cola and stir gently.";
+
+"name12" = "Hurricane";
+"headline12" = "A strong cocktail with a rich, sweet fruity flavor and hints of citrus.";
+"ingridients12.1" = "Rum";
+"ingridients12.2" = "Syrup";
+"ingridients12.3" = "Grenadine";
+"ingridients12.4" = "Pineapple juice";
+"ingridients12.5" = "Orange juice";
+"ingridients12.6" = "Lime juice";
+"ingridients12.7" = "Lemon";
+"ingridients12.8" = "Ice";
+"numberOfIngridients12.1" = "60 ml";
+"numberOfIngridients12.2" = "15 ml";
+"numberOfIngridients12.3" = "5 ml";
+"numberOfIngridients12.4" = "60 ml";
+"numberOfIngridients12.5" = "60 ml";
+"numberOfIngridients12.6" = "30 ml";
+"numberOfIngridients12.7" = "20 g";
+"numberOfIngridients12.8" = "300 g";
+"recipe12" = "Pour lime, orange and pineapple juice into a shaker, then add syrup, grenadine, rum and ice, shake everything, then pour 400+ ml into a tall glass and at the end garnish with lemon.";
+
+"name13" = "Santa Libre";
+"headline13" = "A refreshing sweet cocktail with a rich citrus flavor";
+"ingridients13.1" = "Rum";
+"ingridients13.2" = "Lime juice";
+"ingridients13.3" = "Sprite";
+"ingridients13.4" = "Lime";
+"ingridients13.5" = "Ice";
+"numberOfIngridients13.1" = "50 ml";
+"numberOfIngridients13.2" = "10 ml";
+"numberOfIngridients13.3" = "150 ml";
+"numberOfIngridients13.4" = "20 g";
+"numberOfIngridients13.5" = "180 g";
+"recipe13" = "Place ice in a tall 300-400 ml glass, pour in lime juice and rum, then fill the glass with Sprite, stir gently and garnish with lime.";
+
+"name14" = "Mint Breeze";
+"headline14" = "A refreshing cocktail with a pleasant soft and unusual taste";
+"ingridients14.1" = "Gin";
+"ingridients14.2" = "Sugar syrup";
+"ingridients14.3" = "Lemon juice";
+"ingridients14.4" = "Soda";
+"ingridients14.5" = "Mint";
+"ingridients14.6" = "Ice";
+"numberOfIngridients14.1" = "50 ml";
+"numberOfIngridients14.2" = "20 ml";
+"numberOfIngridients14.3" = "15 ml";
+"numberOfIngridients14.4" = "100 ml";
+"numberOfIngridients14.5" = "2 g";
+"numberOfIngridients14.6" = "200 g";
+"recipe14" = "Place ice and mint in a tall 300-400 ml glass, pour in lemon juice, sugar syrup and gin, then fill the glass with soda, stir gently and garnish with mint.";
+
+"name15" = "Boulevardier";
+"headline15" = "A strong cocktail with a harmony of bitter and sweet tastes";
+"ingridients15.1" = "Whiskey";
+"ingridients15.2" = "Red vermouth";
+"ingridients15.3" = "Red bitter";
+"ingridients15.4" = "Orange zest";
+"ingridients15.5" = "Ice";
+"numberOfIngridients15.1" = "45 ml";
+"numberOfIngridients15.2" = "30 ml";
+"numberOfIngridients15.3" = "30 ml";
+"numberOfIngridients15.4" = "10 g";
+"numberOfIngridients15.5" = "120 g";
+"recipe15" = "Place ice in a tall 200-300 ml glass, pour in vermouth, bitters and whiskey, stir gently and garnish with zest.";
+
